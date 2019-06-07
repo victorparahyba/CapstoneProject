@@ -1,0 +1,12 @@
+DATA
+
+Three different types of venues will be considered to find a good location for this new hostel in Sao Paulo:
+
+- Tourist attractions that have more reviews (top 10);
+- Cheap restaurants and supermarkets;
+- Presence of other hostels.
+
+The fist two criterias will increase the rank of the area while the third one will decrease.
+
+Foursquare data of the venues will be used to acquire this information, while a ranking weighting algorithm based on the criteria will
+be developed to investigate the good locations for the new business.
