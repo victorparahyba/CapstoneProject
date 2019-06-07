@@ -1,0 +1,14 @@
+Introduction / Business Problem
+
+Hostels are inexpensive hotels or inns that generally cater to budget travelers.
+Often located in major cities or around tourist sites, they feature basic accommodations and cheap rates.
+As a site for people from around the world to gather and save money,
+a backpacking hostel tends to feature less in the way of formal hospitality and more with regards to
+organized activities and building a communal spirit.
+
+The ideal location of a hostel should be a place with a high volume of budget travelers passing through.
+It should be easily accessible, travelers may not know their way around the area, and able to compete with others,
+if any, hostels in the region. It should also be close to major touristic attractions in a city.
+
+The objective of this project is to find a good location for a new hostel in the city of Sao Paulo, Brazil, using Foursquare
+data to support this decision.
